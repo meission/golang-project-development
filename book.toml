@@ -1,0 +1,12 @@
+[book]
+title = "Golang 项目开发实践"
+authors = []
+language = "en"
+multilingual = false
+src = "src"
+
+
+[build]
+build-dir = "book"                # the directory where the output is placed
+create-missing = true             # whether or not to create missing pages
+use-default-preprocessors = true  # use the default preprocessors

@@ -1,0 +1,10 @@
+database:
+  server: 8090
+  ports:
+    - 8001
+    - 8001
+    - 8002
+
+servers:
+  alpha:
+    ip: 10.0.0.1
